@@ -1,0 +1,43 @@
+/* purple */
+.purple mark {
+    color: var(--color-purple);
+}
+
+.purple mark::before {
+    background-color: var(--color-purple-mark);
+}
+
+.links .purple {
+    color: var(--color-purple);
+}
+
+.links .purple::before {
+    background-color: var(--color-purple);
+}
+
+/* green */
+.links .green {
+    color: var(--color-green);
+}
+
+.links .green::before {
+    background-color: var(--color-green);
+}
+
+/* blue */
+.links .blue {
+    color: var(--color-blue);
+}
+
+.links .blue::before {
+    background-color: var(--color-blue);
+}
+
+/* red */
+.links .red {
+    color: var(--color-red);
+}
+
+.links .red::before {
+    background-color: var(--color-red);
+}
